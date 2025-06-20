@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish-shirsath</h1>
-<h3 align="center">Hi, I’m Ashish Shirsath Aspiring Java Developer | Learning & Building Interested in Java, Spring Boot, and backend development Currently learning and building projects to sharpen my skills</h3>
+<h3 align="center">Aspiring Java Developer | Learning & Building Interested in Java, Spring Boot, and backend development Currently learning and building projects to sharpen my skills</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
